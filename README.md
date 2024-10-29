@@ -2,9 +2,9 @@
 
 Lisätään vielä tähän ajatuspohdinta alkuun:
 
-Model -> Luokka joka kuvasta jotain esim. Tuotetta
-View -> Pelkkä näkymä jossa näytetään vain sen tuotteen tiedot
-Component -> Paikka mihin tehdään kaikki koodi sen tuotteen muokkaamista/poistamista jne 
+- Model -> Luokka joka kuvasta jotain esim. Tuotetta
+- View -> Pelkkä näkymä jossa näytetään vain sen tuotteen tiedot
+- Component -> Paikka mihin tehdään kaikki koodi sen tuotteen muokkaamista/poistamista jne 
 
 View ja Component keskustelevat keskenään kun model kuvastaa jotain
 
