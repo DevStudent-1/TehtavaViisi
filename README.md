@@ -1,5 +1,13 @@
 # TehtavaViisi
 
+Lisätään vielä tähän ajatuspohdinta alkuun:
+
+Model -> Luokka joka kuvasta jotain esim. Tuotetta
+View -> Pelkkä näkymä jossa näytetään vain sen tuotteen tiedot
+Component -> Paikka mihin tehdään kaikki koodi sen tuotteen muokkaamista/poistamista jne 
+
+View ja Component keskustelevat keskenään kun model kuvastaa jotain
+
 ## Harjoitus joka kuuluu Sovellusarkkitehtuuri kurssille.
 
 Tein ProductController.cs -kontrollorin vastaamaan Web -sivuilla olevan Products kutsua. 
