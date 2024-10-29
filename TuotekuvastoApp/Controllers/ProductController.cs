@@ -12,7 +12,7 @@ namespace TuotekuvastoApp.Controllers
             return View(products);
         }
 
-        private object GetProducts()
+        private List<Product> GetProducts()
         {
             var json = System.IO.File.ReadAllText("wwwroot/products.json");
 
